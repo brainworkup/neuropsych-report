@@ -3,6 +3,7 @@ title: NEUROCOGNITIVE EXAMINATION
 author: "Joey Trampush"
 format:
   neuropsych-report-typst: default
+bibliography: refs.bib
 params:
   first_name: Biggie
   last_name: Smalls
