@@ -2,6 +2,20 @@
 title-meta: attention/executive
 ---
 
-On exam, Mr. Smalls performed within the Average range on measures of attentional capacity, working memory, basic psychomotor processing speed, and divided attention. This suggests that he has a generally normal ability to focus, hold and manipulate information, and coordinate mental and physical tasks. Mr. Smalls also demonstrated Average performance in tasks assessing psychomotor speed, visual scanning ability, visual-motor coordination, and efficiency in performing a selective attention task. This suggests that he has a generally normal ability to quickly and accurately perform tasks that require both mental and motor coordination, such as typing or driving. However, Mr. Smalls's auditory attentional capacity, or his ability to process multiple pieces of auditory information at once, was found to be Low Average. This could potentially impact his ability to follow complex verbal instructions or to keep track of multiple speakers in a conversation.
+### Attention and Processing Speed 
 
-In the domain of executive functioning, Mr. Smalls showed Average performance in tasks requiring retrieval fluency, ideational fluency, generativity, self-monitoring, and perseverative tendencies. This suggests that he has a generally normal ability to generate ideas, monitor his own actions, and flexibly adapt to changes. For example, his Average judgment and decisional capacity suggests that he can typically make reasonable decisions about issues and situations likely to be encountered in daily life. Additionally, Mr. Smalls's performance on tasks assessing planning and foresight, inhibition, and psychomotor speed, as examined through a series of maze-tracing tasks, fell in the Low Average range. This could suggest potential difficulties in tasks requiring planning, such as organizing a day's activities, inhibiting impulsive responses, or quickly and accurately performing complex motor tasks.
+No deficits identified.
+- Auditory Attention Span: 6 forward, wnl.
+- Verbal Working Memory: 5 digits reversed and 6 digits sequenced,wnl.
+- Mental manipulation of numeric information to perform oral arithmetic: wnl (ss = 11).
+- Visual Search and Attention: Coding (ss = 8), Symbol Search (ss = 9), and TMT-A (25 seconds), wnl.
+
+### Executive Functions 
+
+Although many aspects of executive functioning were within normal limits, she demonstrated mildly inefficient problem solving and hypothesis testing.
+- Simple, timed cognitive flexibility: TMT-B (50 seconds), wnl.
+- Controlled behavioral inhibition: SCWT, wnl (CW T = 53).
+- Cognitive flexibility, novel problem solving, and hypothesis testing: WCST-64, below expectations for this patient (two categories); error pattern suggested inefficient problem solving and use of feedback to modify responding.
+- Verbal abstract reasoning: Similarities, wnl (ss = 11).
+- Visual analogical reasoning: Matrix Reasoning, strong (ss = 16).
+- Behavioral initiation and fluency: Verbal fluency (FAS raw = 45), wnl. Nonverbal fluency, wnl (z = –0.6).

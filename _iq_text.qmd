@@ -4,11 +4,6 @@ title-meta: general cognitive ability
 
 <!-- ### General Intellectual Functioning -->
 
-Mr. Smalls's general intelligence is in the Average range, with crystallized
-intelligence and working memory also in the Average range. Processing speed and
-overall cognitive efficiency are average, with no significant strengths or
-weaknesses. However, fluid reasoning is in the Low Average range, suggesting
-potential difficulties with abstract thinking and problem-solving. A
-comprehensive assessment of neuropsychological functioning, encompassing
-attentional and executive functioning, language, spatial processing, and memory,
-is also in the Low Average range.
+Normal general intellectual functioning with no evidence of decline from premorbid estimates.
+- Premorbid estimate: TOPF, above average (SS = 112).
+- Current general cognitive ability: VCI = 103; PRI = 117; WMI = 102; PSI = 92. All domains wnl; strong perceptual reasoning abilities.
