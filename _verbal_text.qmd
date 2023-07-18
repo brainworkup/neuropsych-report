@@ -4,4 +4,10 @@ title-meta: verbal
 
 <!-- ### Language Functions -->
 
-Mr. Lopez evidenced average auditory comprehension, word-finding ability, and verbal reasoning, demonstrating a good understanding of spoken language, ease in conversation, and the ability to draw conclusions from verbal information. However, the patient's performance in categorical/semantic word fluency and letter/phonemic word fluency is Low Average and Below Average respectively. This suggests potential difficulties in generating words that fall into specific categories or begin with a specific letter, which may impact tasks that require organizing verbal information or need rapid verbal responses.
+While many areas of language functioning were within normal limits, Ms. XXXX demonstrated a weakness in aspects of word retrieval.
+
+- Auditory comprehension: Able to respond appropriately to interview questions and follow test instructions without difficulty.
+- Expressive vocabulary: Vocabulary, wnl (ss = 10).
+- Fund of verbal semantic knowledge: Information, wnl (ss = 11).
+- Visual confrontation naming: BNT, impaired (47/60).
+- Verbal fluency: Animals (raw = 16), below expectations; FAS (raw = 45), wnl.
