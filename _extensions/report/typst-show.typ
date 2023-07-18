@@ -1,4 +1,4 @@
-#show: report.with(
+#show: neuropsych-report.with(
 $if(title)$
   title: "$title$",
 $endif$
@@ -22,7 +22,9 @@ $if(by-author)$
   $endfor$,
   ),
 $endif$
+
 $if(bibliography)$
   bibliography-file: "$bibliography$",
 $endif$
+
 )

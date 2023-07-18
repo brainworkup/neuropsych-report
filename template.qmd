@@ -1,7 +1,6 @@
 ---
 title: NEUROCOGNITIVE EXAMINATION
-author: "Joey T."
-patient: "Biggie"
+author: "Joey Trampush"
 format:
   neuropsych-report: default
 ---

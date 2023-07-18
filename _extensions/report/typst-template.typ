@@ -1,7 +1,7 @@
 // The project function defines how your document looks.
 // It takes your content and some metadata and formats it.
 // Go ahead and customize it to your liking!
-#let report(title: "", authors: (), date: none, body) = {
+#let neuropsych-report(title: "", authors: (), date: none, body) = {
   // Set the document's basic properties.
   set document(author: authors.map(a => a.name), title: title)
   set page(
@@ -24,8 +24,8 @@
 )
 
   // Save heading and body font families in variables.
-  let body-font = "New Computer Modern"
-  let sans-font = "New Computer Modern Sans"
+  let body-font = "Ale­greya"
+  let sans-font = "Ale­greya Sans"
 
   // Set body font family.
   set text(font: body-font, lang: "en", size: 11pt)
@@ -36,7 +36,7 @@
 
   show heading: set text(font: sans-font)
     
-  set heading(numbering: "1.a")
+  // set heading(numbering: "1.a")
 
   // Set run-in subheadings, starting at level 4.
   show heading: it => {
@@ -49,8 +49,8 @@
   }
 
   // Configure lists.
-  set enum(indent: 10pt, body-indent: 9pt)
-  set list(indent: 10pt, body-indent: 9pt)
+  set enum(indent: 5pt, body-indent: 2.5pt)
+  set list(indent: 5pt, body-indent: 2.5pt)
 
   set par(leading: 0.75em)
 
