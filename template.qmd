@@ -3,6 +3,16 @@ title: NEUROCOGNITIVE EXAMINATION
 author: "Joey Trampush"
 format:
   neuropsych-report-typst: default
+params:
+  first_name: Biggie
+  last_name: Smalls
+  doe1: 2023-01-01
+execute:
+  echo: false
+  warning: false
+  error: true
+  message: false
+  cache: false
 ---
 
 ```{r}
@@ -23,11 +33,13 @@ if (identical(knitr:::pandoc_to(), "latex")) {
 ```{=typst}
 #v(2pt, weak: true)
 *PATIENT NAME:* `r params$first_name` `r params$last_name`\
-*DATES OF EXAM:* `r params$doe1`, `r params$doe2`\
+*DATE OF EXAM:* `r params$doe1`\
 ```
 
 # TESTS ADMINISTERED
 
+```{=typst}
+#set list(marker: ([•], [--]))
 - Comprehensive Neuropsychiatric Symptom and History Interview
 - Conners' Adult ADHD Diagnostic Interview for DSM-IV (CAADID), Part I: History
 - Conners' Adult ADHD Rating Scales--Observer Report: Long Version (CAARS--O:L)
@@ -44,10 +56,11 @@ if (identical(knitr:::pandoc_to(), "latex")) {
 - Rey-Osterrieth Complex Figure Test (ROCFT)
 - Trail Making Test
 - Personality Assessment Inventory (PAI)
+```
 
 # NEUROBEHAVIORAL STATUS EXAM
 
-{{< include _nse.qmd >}}
+{{< include Biggie/_nse.qmd >}}
 
 # NEUROCOGNITIVE FINDINGS
 
@@ -195,10 +208,10 @@ validity <- readr::read_csv(here::here(patient, "validity.csv"))
 
 ## Behavioral Observations
 
-{{< include _behav_obs.qmd >}}
+{{< include Biggie/_behav_obs.qmd >}}
 
 ## Intelligence/General Ability
 
-{{< include _iq_text.qmd >}}
+{{< include Biggie/_iq_text.qmd >}}
 
-{{< include _iq.qmd >}}
+{{< include Biggie/_iq.qmd >}}

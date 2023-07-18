@@ -28,7 +28,7 @@
   let sans-font = "Ale­greya Sans"
 
   // Set body font family.
-  set text(font: body-font, lang: "en", size: 11pt)
+  set text(font: body-font, lang: "en", size: 12pt)
   show math.equation: set text(weight: 400)
 
   // Set paragraph spacing.
@@ -49,8 +49,8 @@
   }
 
   // Configure lists.
-  set enum(indent: 5pt, body-indent: 2.5pt)
-  set list(indent: 5pt, body-indent: 2.5pt)
+  set enum(indent: 10pt, body-indent: 5pt)
+  set list(indent: 10pt, body-indent: 5pt)
 
   set par(leading: 0.75em)
 
