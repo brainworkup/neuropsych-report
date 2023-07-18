@@ -3,6 +3,7 @@ title-meta: emotion
 execute:
   warning: false
   echo: false
+  message: false
 format:
   typst:
     keep-typ: true
@@ -15,14 +16,37 @@ format:
 
 ```{r}
 #| label: data-emotion
-#| message: false
-#| echo: false
 library(readr)
 library(dplyr)
-file_path <- file.path("neurobehav.csv")
-emot <- read_csv(path)
-# filter
-filter <- c(
+library(bwu)
+
+# which csv file to use
+pheno <- "emotion"
+
+if (pheno == "adhd" || pheno == "emotion") {
+  csv <- "neurobehav.csv"
+} else {
+  csv <- "neurocog.csv"
+}
+
+# read data
+file_path <- file.path(csv)
+data <- readr::read_csv(file_path)
+```
+
+```{r}
+#| label: filter-emotion
+#| messages: false
+#| echo: false
+#| warning: false
+
+# FILTER DATA
+# filter by broad domain
+domain <- c("Psychiatric Disorders", "Personality Disorders", "Substance Use", "Psychosocial Problems")
+data <- dplyr::filter(data, domain %in% !!domain)
+
+# filter by scale
+filter_file <- c(
   # PAI
   "Somatic Complaints",
   "Conversion",
@@ -80,28 +104,25 @@ filter <- c(
   # BAI-2
   "BAI-2 Total Score"
 )
+data <- dplyr::filter(data, scale %in% filter_file)
 ```
-
 
 ```{r}
 #| label: text-emotion
-#| echo: false
-#| warning: false
 #| cache: true
 library(glue)
 library(purrr)
 library(dplyr)
 
-df_txt <-
-  emot |>
-  filter(scale %in% filter) |>
-  arrange(desc(percentile)) |>
-  distinct(.keep_all = FALSE)
+data_text <-
+  data |>
+  dplyr::arrange(dplyr::desc(percentile)) |>
+  dplyr::distinct(.keep_all = FALSE)
 
-df_txt |>
+data_text |>
   glue::glue_data() |>
-  purrr::modify(as_mapper(~ paste0(.x))) |>
-  cat(df_txt$result,
+  purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
+  cat(data_text$result,
     file = "_emotion_text_raw.qmd",
     fill = TRUE,
     append = TRUE
@@ -109,174 +130,134 @@ df_txt |>
 ```
 
 ```{r}
-#| label: tbl-emotion
-#| eval: true
-#| echo: false
-#| warning: false
-#| tbl-cap: Emotional/Behavioral/Personality
-#| tbl-cap-location: top
+#| label: qtbl-emotion
+#| eval: false
+# GT table
+xfun::pkg_attach2(c("gt", "dplyr", "glue", "webshot2", "gtExtras", "bwu"))
 
-library(bwu)
-library(dplyr)
-library(kableExtra)
-library(webshot2)
+# more filtering for tables
+# data <- dplyr::arrange(data, test_name)
+#TODO:
+# source note
+source_note <- gt::md("*Note:* T-scores have a mean of 50 and a standard deviation of 10.")
 
-tb1 <-
-  bwu::make_tibble(
-    tibb = tb1,
-    data = emot,
-    pheno = "Psychiatric Disorders"
-  ) |>
-  filter(Scale %in% filter) |>
-  arrange(Test) |>
-  arrange(Subdomain)
+# four subtables
+tbl1 <- 
+  dplyr::filter(data, domain == "Psychiatric Disorders") |> 
+  dplyr::arrange(test_name) |>
+  dplyr::arrange(subdomain)
+tbl1 <- tbl1[, c(11, 2, 4, 5, 6)]
+colnames(tbl1)[1] <- "test_name"
+table_psych <- bwu::tbl_gt(
+  tbl1,
+  table_name = "table_psych",
+  source_note = source_note
+)
+table_psych
 
-tb2 <-
-  bwu::make_tibble(
-    tibb = tb2,
-    data = emot,
-    pheno = "Personality Disorders"
-  ) |>
-  filter(Scale %in% filter) |>
-  arrange(Test) |>
-  arrange(Subdomain)
+tbl2 <- 
+  dplyr::filter(data, domain == "Personality Disorders") |> 
+  dplyr::arrange(test_name) |>
+  dplyr::arrange(subdomain)
+tbl2 <- tbl2[, c(11, 2, 4, 5, 6)]
+colnames(tbl2)[1] <- "test_name"
+table_personality <- bwu::tbl_gt(
+  tbl2,
+  table_name = "table_personality",
+  source_note = source_note
+)
+table_personality
 
-tb3 <-
-  bwu::make_tibble(
-    tibb = tb3,
-    data = emot,
-    pheno = "Substance Use"
-  ) |>
-  filter(Scale %in% filter) |>
-  arrange(Test) |>
-  arrange(Subdomain)
+tbl3 <- 
+  dplyr::filter(data, domain == "Substance Use") |> 
+  dplyr::arrange(test_name) |>
+  dplyr::arrange(subdomain)
+tbl3 <- tbl3[, c(11, 2, 4, 5, 6)]
+colnames(tbl3)[1] <- "test_name"
 
-tb4 <-
-  bwu::make_tibble(
-    tibb = tb4,
-    data = emot,
-    pheno = "Psychosocial Problems"
-  ) |>
-  filter(Scale %in% filter) |>
-  arrange(Test) |>
-  arrange(Subdomain)
+tbl4 <- 
+  dplyr::filter(data, domain == "Psychosocial Problems") |> 
+  dplyr::arrange(test_name) |>
+  dplyr::arrange(subdomain)
+tbl4 <- tbl4[, c(11, 2, 4, 5, 6)]
+colnames(tbl4)[1] <- "test_name"
 
 # merge
-df_table <- rbind(tb1, tb2, tb3, tb4)
+data_core <- rbind(tbl1, tbl2)
+# data <- rbind(tbl1, tbl2, tbl3, tbl4)
 
-tbl_emotion <-
-  kableExtra::kbl(
-    df_table[, 1:4], "latex",
-    longtable = FALSE,
-    booktabs = TRUE,
-    linesep = "",
-    align = c("lccc")
-  ) |>
-  kableExtra::kable_paper(lightable_options = "basic") |>
-  kableExtra::kable_styling(latex_options = c(
-    "scale_down",
-    "HOLD_position",
-    "striped",
-    font_size = 8
-  )) |>
-  kableExtra::column_spec(1, width = "8cm") |>
-  kableExtra::pack_rows(index = table(df_table$Test)) |>
-  kableExtra::pack_rows(index = table(df_table$Subdomain)) |>
-  kableExtra::row_spec(row = 0, bold = TRUE) |>
-  kableExtra::footnote("Note: T-scores have a mean of 50 and a standard deviation of
-  10. ",
-    general_title = "", threeparttable = TRUE, escape = F,
-    footnote_as_chunk = TRUE
-  )
-tbl_emotion
+# # subset data
+# data_qtbl <- data[, c(11, 2, 4, 5, 6)]
+# # hack
+# colnames(data_qtbl)[1] <- "test_name"
+
+# # run fc
+# table_emotion <- bwu::tbl_gt(
+#   data_core,
+#   table_name = "table_emotion",
+#   source_note = source_note
+# )
+# table_emotion
+
+# save
+gt::gtsave(table_psych, glue("table_psych", ".png"), expand = 10)
+# gt::gtsave(table_emotion, glue("table_personality", ".png"), expand = 10)
 ```
 
-
-```{r}
-#| label: tbl-emotion
-#| tbl-width: 5
-#| tbl-height: 3
-#| tbl-cap-location: top
-#| tbl-cap: Emotional/Behavioral/Personality
-xfun::pkg_attach2(c("gt", "tidyverse", "glue", "webshot2", "gtExtras", "gtsummary"))
-
-file_path <- file.path("neurobehav.csv")
-filter <- filter
-domain <- "Emotional/Behavioral/Personality"
-table_name <- "table_emotion"
-
-table_emotion <- tbl_gt(
-  file_path = file_path,
-  filter = filter,
-  domain = domain,
-  table_name = table_name
+```{=typst}
+<qtbl-emotion>
+#figure([#image("table_psych.png", width: 70%)],
+  caption: [
+    Behavioral, Personality, and Emotional Functioning
+  ],
+  kind: "qtbl",
+  supplement: [Table],
 )
-table_emotion
-
-table_emotion |> gtsave(glue(table_name, ".png"), expand = 5)
-table_emotion |> gtsave(glue(table_name, ".pdf"), expand = 10)
 ```
-
-
 ```{r}
 #| label: fig-emotion
-#| eval: false
-#| fig-cap-location: margin
-#| margin-width: 3
+#| eval: true
 #| fig-cap: "Personality scores ..."
+xfun::pkg_attach(c(
+  "gt", "tidyverse", "glue", "webshot2", "ggplot2", "ggthemes",
+  "scales", "bwu"
+))
 
-library(ggplot2)
-library(ggthemes)
-library(scales)
-library(dplyr)
-library(patchwork)
+# data for dotplot
+data <- dplyr::filter(data, !is.na(percentile))
 
-df_plot <-
-  emot |>
-  filter(!is.na(percentile)) |>
-  # arrange(test_name) |>
-  filter(scale %in% filter)
-
-# Define the color palette
-color_palette <- c(
-  "#190D33", "#27123A", "#351742", "#421E4A", "#502653",
-  "#5C2E5A", "#683863", "#73436A", "#7B4E70", "#815875",
-  "#866079", "#89697D", "#8B7280", "#8C7A81", "#8E8385",
-  "#908A87", "#919289", "#929A8A", "#94A38D", "#96AB8F",
-  "#99B392", "#9CBD95", "#A2C79A", "#ACD3A0", "#B9DFA9",
-  "#C8EAB3", "#D8F2BD", "#E6F9C7", "#F3FCD0", "#FEFED8"
+fig_emotion <- bwu::dotplot(
+  data = data,
+  x = data$z_mean_subdomain,
+  y = data$subdomain,
+  fill = x
 )
-
-# make plot
-ggplot2::ggplot() +
-  geom_segment(
-    data = df_plot,
-    aes(
-      x = z_mean_sub,
-      y = reorder(subdomain, z_mean_sub),
-      xend = 0,
-      yend = subdomain
-    ),
-    linewidth = 0.5
-  ) +
-  geom_point(
-    data = df_plot,
-    aes(
-      x = z_mean_sub,
-      y = reorder(subdomain, z_mean_sub),
-      fill = z_mean_sub
-    ),
-    shape = 21,
-    size = 6,
-    color = "black"
-  ) +
-  scale_fill_gradientn(colors = color_palette, guide = "none") +
-  theme_fivethirtyeight() +
-  theme(
-    panel.background = element_rect(fill = "white"),
-    plot.background = element_rect(fill = "white"),
-    panel.border = element_rect(color = "white")
-  )
+fig_emotion
 ggplot2::ggsave("fig_emotion.png")
 ggplot2::ggsave("fig_emotion.pdf")
+```
+
+```{r}
+#| label: _tbl-md-emotion
+#| eval: false
+#| tbl-cap: "Mood/Self-Report"
+# markdown table; change labe if want to use
+markdown_table_typst <- function(data) {
+  data.frame(
+    data
+  ) |>
+    kableExtra::kbl(
+      format = "markdown",
+      table.envir = "figure",
+      longtable = FALSE,
+      booktabs = TRUE,
+      linesep = "",
+      align = c("lccc"),
+      caption = "Mood/Self-Report",
+      col.names = c("**Scale**", "**Score**", "**‰ Rank**", "**Range**")
+    )
+}
+
+tbl_md <- markdown_table_typst(data[, c(2, 4, 5, 6)])
+tbl_md
 ```

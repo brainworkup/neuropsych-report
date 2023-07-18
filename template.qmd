@@ -2,7 +2,7 @@
 title: NEUROCOGNITIVE EXAMINATION
 author: "Joey Trampush"
 format:
-  neuropsych-report: default
+  neuropsych-report-typst: default
 ---
 
 ```{r}
@@ -201,4 +201,4 @@ validity <- readr::read_csv(here::here(patient, "validity.csv"))
 
 {{< include _iq_text.qmd >}}
 
-{{< include _iq2.qmd >}}
+{{< include _iq.qmd >}}
