@@ -1,0 +1,866 @@
+```{r}
+#| cache: true
+```
+
+<<PROMPT>>
+
+Summarize and interpret these neuropsychological test scores as if you are an
+experienced clinical neuropsychologist. For scores that are below average,
+give a brief example of how this could impact the patient's daily life and functioning. Organize your
+summary and interpretation from scores that are above average to below average to delineate
+relative strengths and weaknesses.
+
+<<START>>
+
+Mr. Lopez demonstrated High Average abilities in learning and recognizing visual
+materials such as abstract shapes. Similarly, his ability to discriminate
+between correct and incorrect responses (yes/no recognition discriminability)
+was High Average. Mr. Lopez exhibited an average ability to recognize target
+visual material among non-target distractors after a delay period, which
+suggests that he can sustain his memory over time and can distinguish between
+relevant and irrelevant information. His recall abilities, both for a list after
+a short and long delay, were average. This indicates that Mr. Lopez can retain
+and retrieve information over varying periods, a skill that is essential in
+tasks such as remembering instructions or grocery lists. Similarly, his learning
+and recall of rote verbal information like a word list were also average,
+showing that he can remember and recall verbal information adequately. Mr.
+Lopez's ability to retain story details and visual details over time, scaled to
+how much was initially learned, was also average. This suggests that he has
+average abilities in retaining contextual or detailed information over time.
+Considering areas of relative weakness, Mr. Lopez's delayed recall of story
+details over time was Low Average. This might mean that he may struggle to
+remember detailed narratives or conversations after some time has passed. His
+performance on a more complex one-trial verbal learning and recall task, such as
+story learning, was also Low Average. This suggests that he may struggle with
+tasks that require learning and remembering complex verbal information in a
+single attempt, such as remembering detailed instructions given to him at once.
+
+Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a
+complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.
+ Learning and recognition of visual material (abstract shapes) was High Average. 
+Yes/no recognition discriminability was High Average. 
+Recognition of the target visual material among nontarget distractors after a delay period was Average. 
+Recall of the list after a long (20-minute) delay with cues was Average. 
+The percentage of story detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Learning and recall of rote verbal information (word list) was Average. 
+Recall of the list after a short delay was Average. 
+Recall of the list after a long (20-minute) delay was Average. 
+Percentage of visual detail retained over time, scaled to how much was initially learned fell in the Average range. 
+Delayed recall of the story details over time was Low Average. 
+Performance on a more complex one-trial verbal learning and recall task (story learning) was Low Average. 
+Spontaneous, long-term delayed recall (20-25 min) recall and reproduction of a complex abstract figure fell within the Below Average range.

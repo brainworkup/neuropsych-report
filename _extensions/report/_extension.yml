@@ -1,0 +1,12 @@
+title: Report
+author: Joey Trampush
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  formats:
+    typst:
+      template: template.typ
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ
+      cite-method: natbib

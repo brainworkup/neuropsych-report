@@ -1,0 +1,7 @@
+*.pdf
+.DS_Store
+
+/.luarc.json
+
+.history/
+.vscode/

@@ -1,0 +1,1129 @@
+```{r}
+#| cache: true
+```
+
+Summarize and interpret these neuropsychological test scores as if you are an
+experienced clinical neuropsychologist. For scores that are below average,
+give a brief example of how this could impact the patient's daily life and functioning. Organize your
+summary and interpretation from scores that are above average to below average to delineate
+relative strengths and weaknesses. The patient is an {{adult}} {{male}}.
+
+## Sample Summary
+
+An estimate of premorbid verbal ability level was within the Average range.
+General Intelligence was Average, ranking at the 47th percentile, which
+indicates performance equal to or better than 47% of same-age peers from the
+general population. Crystallized Intelligence was classified as Average, ranking
+at the 70th percentile. Fluid Reasoning was classified as Low Average, ranking
+at the 21st percentile. Working Memory was within the High Average range.
+Processing Speed was within the Average range. Lastly, a comprehensive measure
+of neuropsychological functioning, independent of general intelligence,
+encompassing attentional and executive functioning, language, spatial
+processing, and memory, was in the Low Average range.
+
+<<START>>
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.
+ 
+A composite measure of the examinee's verbal and visual memory functioning was Average. 
+Collective performance across measures of processing speed and cognitive efficiency^[(ref:processing-speed)] was Average and a relative strength|weakness. 
+An estimate of working memory capacity^[(ref:working-memory)] fell in the Average range and was and a relative strength|weakness. 
+A composite estimate of working memory^[(ref:working-memory)] and processing speed^[(ref:processing-speed)] (i.e., cognitive proficiency) was Average and a relative strength|weakness. 
+An overall screening measure of the examinee's attentional functioning was Average. 
+A composite screening measure of (ref:first-name)'s visuoperceptual skills, attention to detail, and visuoconstructional skills fell in the Average classification range. 
+Crystallized intelligence (*G*c) was classified as Average and ranked at the 32th percentile. 
+An estimate of fluid intelligence (*G*f) was classified as Average. 
+A composite screening measure of language comprehension and word-finding abilities fell in the Average classification range. 
+An estimate of higher cognitive reasoning and acquired knowledge (*g*) was Average and ranked at the 27th percentile, indicating performance as good as or better than 27% of same-age peers from the general population. 
+Finally, a comprehensive measure of neuropsychological functioning (independent of general intelligence) in the domains of attentional and executive functioning, language, spatial processing, and memory fell in the Average range. 
+A composite measure of executive skills involving planning, inhibition, speed/fluency, and generativity fell in the Average range.

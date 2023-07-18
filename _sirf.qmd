@@ -1,0 +1,82 @@
+---
+title-meta: sirf
+execute:
+  warning: false
+  echo: false
+format:
+  pdf:
+    keep-md: true
+    keep-tex: true
+---
+
+## Summary and Formulation
+
+Parent ratings of Mr. Lopez's executive functioning were Below Average in planning (i.e., developing and implementing strategies to accomplish tasks), self-monitoring (i.e., evaluating own behavior), attention (i.e., avoiding distractions), inhibitory control (i.e., controlling behavior or impulses), organization (i.e., managing personal effects), and emotion regulation (i.e., controlling and managing emotions). This could manifest in difficulty with formulating and implementing plans to complete complex tasks independently and efficiently. For example, Mr. Lopez may have difficulty staying focused on a task or following through on instructions, leading to decreased productivity across multiple areas. He may also struggle to effectively regulate his emotions in difficult situations, potentially resulting in difficulty calming down. Furthermore, he is likely to have difficulty organizing his thoughts and time, resulting in disorganized work or incomplete tasks.
+
+Overall, Mr. Lopez's cognitive profile is characterized by a relative weakness in fluid reasoning, which may impact his ability to solve novel problems and think abstractly. However, his crystallized intelligence, working memory, processing speed, and overall neuropsychological functioning are all within the Average range, suggesting adequate cognitive functioning in these areas.
+
+Mr. Lopez is a 28-year-old left-handed female with a history of medically refractory epilepsy who was referred for neuropsychological testing as part of a comprehensive presurgical work-up. General cognitive ability is well within normal limits, and there is no evidence of decline from premorbid estimates. No deficits were detected in the domains of attention, processing speed, motor functioning, or visuospatial skills. Although many aspects of executive functioning, language functioning, and memory were within normal limits, she demonstrated mildly inefficient problem solving and hypothesis testing, weaknesses in word retrieval, and inefficiency in new learning of verbal information. There is no evidence of a mood disorder at this time.
+
+In conclusion, the cognitive profile is mildly localizing and lateralizing as there are elements that suggest relative left temporal involvement. That said, there were features seen during testing that suggested mild frontal systems disruption as well. Although Ms. XXXX lives alone, she has arranged to have her mother stay with her for a week or two after surgery to help her and provide support in the immediate postacute period. She seems to have a good understanding of and appropriate expectations for the surgery. Taken together with her current asymptomatic mood profile, there are no obvious psychological risk factors for a poor outcome or need for presurgical mental health intervention.
+
+In summary, Mr. Lopez demonstrates average abilities in areas such as verbal
+ability, general intelligence, working memory, and processing speed. However, he
+shows relative weaknesses in fluid reasoning and overall neuropsychological
+functioning, which may impact his performance in tasks that require abstract
+thinking, attention, executive functions, language processing, spatial
+awareness, and memory.
+
+Mr. Lopez's verbal ability, general intelligence, and crystallized intelligence
+(acquired knowledge) are all classified as Average. His working memory
+capacity and processing speed are also in the Average range. However, he
+demonstrated Low Average fluid reasoning, indicating potential difficulties with abstract
+thinking and problem-solving. His overall neuropsychological functioning,
+including attention, executive functions, language processing, spatial
+awareness, and memory, is also in the Low Average range. This suggests potential
+challenges in tasks that rely on prior learning and experience.
+
+Considering the co-occurring disorders circumplex, it is evident that Mr. Lopez likely has significant psychiatric and drug use problems. The co-occurrence of these disorders increases the severity of both and requires integrated treatment approaches that address both mental health and substance use issues.
+
+### Reading
+
+Mr. Lopez's neuropsychological profile is consistent with developmental
+dyslexia, which impairs his reading and writing skills. His deficit in sight vocabulary fluency could lead to challenges in
+interpreting
+written language, including difficulties in understanding instructional manuals
+or other text-based materials. His deficits in word-level and text-level reading
+could lead to difficulties in
+understanding complex textual content, such as literary works, and also
+impact basic comprehension tasks, such as responding to multiple-choice
+questions. Further, deficits in reading decoding hinder his ability to comprehend unfamiliar words,
+thereby further obstructing overall understanding. Weak reading comprehension
+could result in challenges in discerning the central idea of a text, making
+logical inferences, and may impact higher-order cognitive skills. He also
+demonstrated difficulties in decoding, particularly with irregularly spelled
+words, making it difficult to phonetically sound out unknown words.
+
+
+
+## Overall Evaluation Interpretation
+
+Nestor was administered a comprehensive neuropsychological assessment. The results of the assessment revealed that Nestor has a significant learning disability in reading. He also has mild deficits in attention and working memory. Nestor's overall cognitive functioning is in the average range.
+
+Overall, these findings suggest that Mr. Lopez's cognitive functioning is
+generally intact and within normal limits. While he may not excel in all areas,
+he does not show any significant cognitive impairments that would interfere with
+his daily life activities.
+
+Mr. Lopez has significant difficulties with reading. His sight vocabulary fluency, word-level and text-level reading skills, single word decoding, reading comprehension skills, decontextualized phonic decoding, and risk for dyslexia are all below average. Additionally, his phonic decoding skills and fluency are exceptionally low. These impairments can lead to difficulties in understanding written language, comprehending complex texts, recognizing unfamiliar words, understanding the main idea of a text, making inferences, and decoding words accurately and rapidly.
+
+### Diagnostic Impression
+
+- 315.00 (F81.0) Specific Learning Disorder, With Impairment in Reading (word
+  reading accuracy, reading rate or fluency, reading comprehension)
+- 315.2 (F81.81) Specific Learning Disorder, With Impairment in Written
+  Expression (spelling accuracy, grammar and punctuation accuracy, clarity or
+  organization of written expression)
+- 314.01 (F90.9) Unspecified Attention-Deficit/Hyperactivity Disorder (ADHD)
+- 311 (F32.9) Unspecified Depressive Disorder
+- Polysubstance Abuse
+- 301.7 (F60.2) Antisocial Personality Disorder
+
+- [DSM-5](03.01_dsm5_icd10_dx.md)
