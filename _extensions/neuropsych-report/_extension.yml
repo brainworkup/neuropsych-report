@@ -10,5 +10,5 @@ contributes:
         - typst-template.typ
         - typst-show.typ
       filters:
-        - neuropsych-report.lua
+        - ams.lua
       cite-method: biblatex # changed from natbib

@@ -1,11 +1,24 @@
-// The project function defines how your document looks.
-// It takes your content and some metadata and formats it.
-// Go ahead and customize it to your liking!
-#let neuropsych-report(title: "", authors: (), date: none, body) = {
+#let script-size = 7.97224pt
+#let footnote-size = 8.50012pt
+#let small-size = 9.24994pt
+#let normal-size = 10.00002pt
+#let large-size = 11.74988pt
+
+#let neuropsych-report(
+  title: "", 
+  authors: (), 
+  date: none,
+  // The path to a bibliography file if you want to cite some external
+  // works.
+  // The article's paper size. Also affects the margins.
+  paper-size: "a4",
+  bibliography-file: none,
+  body) = {
   // Set the document's basic properties.
   set document(author: authors.map(a => a.name), title: title)
   set page(
     margin: (left: 23mm, right: 25mm, top: 27mm, bottom: 27mm),
+    // margin: (top: 117pt, left: 118pt, right: 119pt, bottom: 96pt),
     numbering: ("1/1"),
     number-align: center,
     header: locate(
@@ -48,9 +61,14 @@
     }
   }
 
-  // Configure lists.
+  // Configure lists and links.
   set enum(indent: 10pt, body-indent: 5pt)
   set list(indent: 10pt, body-indent: 5pt)
+  show link: set text(font: "New Computer Modern Mono")
+
+  // Configure citation and bibliography styles.
+  set cite(style: "numerical", brackets: true)
+  set bibliography(style: "apa", title: "References")
 
   set par(leading: 0.75em)
 
