@@ -24,9 +24,9 @@ library(bwu)
 pheno <- "executive"
 
 if (pheno == "adhd" || pheno == "emotion") {
-  csv <- "Biggie/neurobehav.csv"
+  csv <- "neurobehav.csv"
 } else {
-  csv <- "Biggie/neurocog.csv"
+  csv <- "neurocog.csv"
 }
 
 # read data
