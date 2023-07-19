@@ -137,7 +137,7 @@ data_sr |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_sr$result,
-    file = "_adhd_text_raw.qmd",
+    file = "_adhd_text.qmd",
     fill = TRUE,
     append = TRUE
   )
@@ -158,13 +158,13 @@ data_or |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_or$result,
-    file = "_adhd_text_raw.qmd",
+    file = "_adhd_text.qmd",
     fill = TRUE,
     append = TRUE
   )
 ```
 
-{{< include _adhd_text_raw.qmd >}}
+{{< include _adhd_text.qmd >}}
 
 ```{r}
 #| label: qtbl-adhd
@@ -196,8 +196,8 @@ table_adhd <- bwu::tbl_gt(
 )
 table_adhd
 
-gt::gtsave(table_adhd, glue("table_adhd", ".png"), expand = 10)
-gt::gtsave(table_adhd, glue("table_adhd", ".pdf"), expand = 10)
+gt::gtsave(table_adhd, glue("table_adhd", ".png"))
+gt::gtsave(table_adhd, glue("table_adhd", ".pdf"))
 ```
 
 ```{=typst}
@@ -213,11 +213,8 @@ gt::gtsave(table_adhd, glue("table_adhd", ".pdf"), expand = 10)
 
 ```{r}
 #| label: fig-adhd
-#| eval: false
+#| eval: true
 #| cache: true
-#| fig-width: 6.5
-#| fig-height: 7
-#| out-width: 70%
 #| fig-cap: "Attention and executive functions are multidimensional concepts that contain several related processes. Both concepts require self-regulatory skills and have some common subprocesses; therefore, it is common to treat them together, or even to refer to both processes when talking about one or the other."
 
 # plots

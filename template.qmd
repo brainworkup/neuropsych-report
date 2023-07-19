@@ -263,7 +263,6 @@ validity <- readr::read_csv(here::here(patient, "validity.csv"))
 #| label: fig-domain-plot
 #| eval: true
 #| column: page
-#| out-width: 8#| 0%
 #| fig-cap-location: margin
 #| fig-cap: "*Key Findings* Mr. Smalls evidences a clinically signifcant impairment in all aspects of reading development, in the context of otherwise normal neurocognitive and intellectual functioning. *Note:* *z*-scores have a mean of 0 and a standard deviation of 1."
 
@@ -277,32 +276,33 @@ library(dplyr)
 keep <- c(
   "General Ability",
   "Academic Skills",
-  # "Crystallized Knowledge",
-  # "Fluid Reasoning",
+  "Crystallized Knowledge",
+  "Fluid Reasoning",
   "Verbal/Language",
   "Visual Perception/Construction",
   "Attention/Executive",
-  "Memory"
-  # "Processing Speed",
-  # "Working Memory"
-  # "Cognitive Proficiency",
-  # "Attention",
-  # "Executive Functions",
-  # "Cognitive Efficiency",
-  # "Learning Efficiency",
-  # "Delayed Recall",
-  # "Planning",
-  # "Fluency",
-  # "Psychomotor Speed",
-  # "Attentional Fluency"
+  "Memory",
+  "Processing Speed",
+  "Working Memory",
+  "Cognitive Proficiency",
+  "Attention",
+  "Executive Functions",
+  "Cognitive Efficiency",
+  "Learning Efficiency",
+  "Delayed Recall",
+  "Planning",
+  "Fluency",
+  "Psychomotor Speed",
+  "Attentional Fluency"
 )
 
-
 g <-
+  g |>
   read_excel("index_scores.xlsx") |>
   janitor::clean_names() |>
   mutate(z = (index - 100) / 15) |>
-  filter(composite_name %in% keep)
+  filter(composite_name %in% keep) |>
+  filter(!is.na(z))
 
 # will need to change these for each domain
 fig_g <- bwu::dotplot(
