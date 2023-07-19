@@ -19,6 +19,10 @@ contributes:
         - _sirf.qmd
         - _spatial.qmd
         - _verbal.qmd
+        - logo.png
+        - refs.bib
+        - plot_narrow.png
+        - plot_broad.png
     typst:
       template: template.typ
       template-partials:
