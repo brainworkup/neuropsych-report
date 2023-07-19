@@ -61,7 +61,7 @@ if (identical(knitr:::pandoc_to(), "latex")) {
 
 # NEUROBEHAVIORAL STATUS EXAM
 
-{{< include _nse.qmd >}}
+{{< include _extensions/_nse.qmd >}}
 
 # NEUROCOGNITIVE FINDINGS
 
@@ -209,10 +209,10 @@ validity <- readr::read_csv(here::here(patient, "validity.csv"))
 
 ## Behavioral Observations
 
-{{< include _behav_obs.qmd >}}
+{{< include _extensions/_behav_obs.qmd >}}
 
 ## Intelligence/General Ability
 
-{{< include _iq_text.qmd >}}
+{{< include _extensions/_iq_text.qmd >}}
 
-{{< include _iq.qmd >}}
+{{< include _extensions/_iq.qmd >}}
