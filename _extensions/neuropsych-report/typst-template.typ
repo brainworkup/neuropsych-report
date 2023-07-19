@@ -26,7 +26,7 @@
             []
         } else {
             [
-              #set text(8pt)
+              #set text(9pt)
               #smallcaps[
                *CONFIDENTIAL*\
                Patient Name

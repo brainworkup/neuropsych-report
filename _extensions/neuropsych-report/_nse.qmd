@@ -1,0 +1,130 @@
+---
+title-meta: "Neurobehavioral Status Exam"
+---
+
+```{r}
+#| label: import-nse-txt
+#| eval: false
+# construct file path
+patient <- "Nestor"
+scale <- "NeuropsychEval-NSE-"
+ext <- ".txt"
+result <- ""
+file <- file.path(paste0(scale, patient, ext))
+```
+
+## Notification/Informed Consent
+
+I informed Mr. Lopez I was retained by his attorney's office to conduct the current neuropsychological assessment. He was informed nothing we discussed would remain confidential, and information he provided during our meetings and the test results from my examination of him would become a part of my report, to be used at his attorney's discretion. He was informed a copy of any report I produced would be sent to his attorney, possibly to the prosecuting attorney, and to the court. Mr. Lopez indicated he understood the purpose of the evaluation and the limitations of confidentiality of our interview and the testing I conducted.
+
+## Reason for Referral
+
+Nestor Lopez is a 23-year-old male who was referred for forensic neuropsychological evaluation. Mr. Lopez has struggled academically since early elementary school and has difficulty reading and spelling. He also presents with a history of attention problems, depression, and anxiety that were diagnosed during adolescence. 
+
+At the request of Deputy Federal Public Defender, Isabel Bussarakum, I conducted an initial remote telemedicine clinical interview with Marisol Lopez, the biological mother of Nestor Lopez, on May 5, 2023 using a HIPAA-compliant telehealth platform to obtain information on his developmental, medical, and psychosocial history. The remote interview lasted approximately 1 hour, 22 minutes. On May 6, 2023, I completed an in-person comprehensive 8-hour neuropsychological and psychodiagnostic assessment with Mr. Lopez. 
+
+This report is based on a review of available information contained in medical records, criminal records, and information gathered during the multiple days of evaluation. I reserve the right to change my opinions about the following should I be provided additional records that alter my understanding of the findings. My current employer, the Keck School of Medicine of the University of Southern California, has no involvement nor affiliation with this case.
+
+## Forensic Case Formulation
+
+Mr. Lopez was arrested and charged with distribution of controlled substances, engaging in the business of dealing in firearms, and possession of unregistered automatic firearms. At present, Mr. Lopez is residing at his place of residence and has been granted bail. While awaiting further legal proceedings, he remains subject to the conditions of his bail arrangement. 
+
+As reported by the patient and his mother, he had no previous involvement with the law. The purported actions were taken in response to the untimely death of his elder brother, Andrew Del Valle. Mr. Del Valle met with a fatal incident, characterized by multiple gunshot wounds (22 in total), suggestive of a gang-related confrontation. There were no eye-witnesses or identified suspects linked to this unfortunate event. Consequently, Mr. Lopez took the initiative to investigate the incident, which led to his involvement in the highlighted unlawful activities.
+
+## Relevant History
+
+### Past Neuropsychological Test Results
+
+Patient denied having prior testing.
+
+### Developmental History
+
+- Patient learned to walk at a later age of about a year and four months.
+
+### Other Medical History
+
+- _Past:_ Frequent nosebleeds as a child.
+- _Current:_ Patient denied.
+- _Family:_ Younger sibling has a history of nosebleeds.
+- _Medications:_ None.
+- _Appetite/weight:_ Normal, no changes.
+- _Sleep:_ Normal, no changes.
+- _Alcohol/tobacco:_ History of alcohol abuse; denied current use.
+- _Substance use/abuse:_ History of cannabis abuse and misuse of benzodiazapines; denied current use.
+- _Neurological:_ Patient denied a family history of neurological conditions.
+
+### Surgical History
+
+Patient denied.
+
+### Psychiatric History
+
+From February 2015 to May 2015, Mr. Lopez participated in individual counseling
+sessions at Alternative Options Counseling Center, Inc. (Age 15, 10th grade,
+GPA: 2.3). The presenting concerns included "anger problems" and "sadness and
+depression." Additional concerns involved his behavior, such as being
+argumentative, experiencing academic difficulties, facing mood and depression
+issues, and exhibiting substance abuse. At that time, his documented substance
+use history included smoking cigarettes (first use: age 12), alcohol consumption
+(first use age 14), marijuana use (first use age 15), and benzodiazepines (e.g.,
+Xanax; first use age 15). Symptoms of depression, feelings of hopelessness,
+worthlessness, long-term memory difficulties, and social isolation were also
+noted during that period. His therapist, Michael J. Leland, MA, observed that
+Mr. Lopez "has been open and receptive to the counseling process and he has
+displayed a good attitude."
+
+### Family History
+
+Throughout his formative years and early adulthood, Mr. Lopez endured a multitude of adversities, such as acclimating to new academic environments and managing the grief associated with the demise of intimate friends and relatives. His mother suggests that a portion of his trials can be attributed to the family dynamics, particularly the complexities introduced by having elder siblings from different parentage and the subsequent influences of their respective families. She expresses profound concern regarding her son's welfare and prospective future.
+
+Mr. Lopez maintained a strong affinity with his two elder brothers, most notably with Andrew, now deceased. Regrettably, at the time of Andrew's passing, the relationship between Nestor and Andrew was fraught, leading to profound feelings of guilt and sadness.
+
+The rapport between Mr. Lopez and his father was initially compromised due to limited engagement. However, it has exhibited signs of improvement in the wake of his legal complications.
+
+### Cultural/Social Background
+
+Mr. Lopez was born and raised in Los Angeles, California. He is in a relationship with his girlfriend, never married, and has no children. From a young age, he exhibited a friendly and talkative demeanor, easily making friends "wherever he went."
+
+### Educational History
+
+Mrs. Lopez recounted how Mr. Lopez struggled with reading
+and schoolwork from an early age. Mr. Lopez's grandmother, who took care of him
+while both parents worked full-time, would often complete his homework for him
+to avoid him getting in trouble. This hindered his reading development and led
+to difficulties in school.
+
+It was not until the family moved and Mr. Lopez switched to a different school district in sixth grade that the school identified his reading difficulties and placed him in an Individualized Education Program (IEP) to receive additional support. Parents denied the school's recommendation for Mr. Lopez to repeat sixth grade. Mr. Lopez performed reasonably well in middle school when he was "motivated" and "determined to improve." During high school, Mr. Lopez attended multiple schools and faced several incidents, such as being threatened with a knife and getting caught using drugs on school premises.
+
+Below are a few relevant excerpts from his school records: 
+
+#### Kindergarten
+
+> "Nestor sometimes makes attempts to work hard on his classwork and to follow
+> directions and rules in the classroom. I would like to see him work harder on
+> his work. He also needs to practice his letter recognition (both capitals and
+> lowercase). His behavior towards others also needs to improve." (10/2004)
+
+> "Nestor works hard and completes his work on time. He, however, needs to
+> continue working on his ABCs, high frequency words, and numbers 1-30. Nestor
+> also has a hard time keeping his hands and feet to himself, which affects the
+> other students in the classroom." (04/2005)
+
+#### Fourth grade
+
+> "Nestor is improving in his turning his math assignments, and beginning to
+> write neatly in his work. Continue turning in all work in all areas and
+> staying focused." (01/2009)
+
+> "Nestor has done an amazing job on his behavior and showing great improvement.
+> I am proud of his effort. Continue to be conscious of his choices." (06/2009)
+
+#### High school transcript
+
+Mr. Lopez graduated from high school with his diploma in June 2017 with an
+overall GPA of 2.31. His GPA ranged from 1.17 to 3.49.
+
+### Occupational History
+
+Mr. Lopez has had various jobs through agencies but had not held a long-term
+position. He currently works as an auto mechanic, work that he enjoys and for which he is
+reported to have talent. 

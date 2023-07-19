@@ -24,9 +24,9 @@ library(bwu)
 pheno <- "executive"
 
 if (pheno == "adhd" || pheno == "emotion") {
-  csv <- "neurobehav.csv"
+  csv <- "Biggie/neurobehav.csv"
 } else {
-  csv <- "neurocog.csv"
+  csv <- "Biggie/neurocog.csv"
 }
 
 # read data
@@ -212,22 +212,14 @@ data <- dplyr::filter(data, scale %in% c(
 # source note
 source_note <- gt::md("*Note:* T-scores have a mean of 50 and a standard deviation of 10. Scaled scores have a mean of 10 and a standard deviation of 3.")
 
-source("tbl_gt.R")
-table_executive <- tbl_gt(
+# run fc
+table_executive <- bwu::tbl_gt(
   data,
   table_name = "table_executive",
   # title = "Attention/Executive",
   source_note = source_note
 )
 table_executive
-# run fc
-# table_executive <- bwu::tbl_gt(
-#   data,
-#   table_name = "table_executive",
-#   # title = "Attention/Executive",
-#   source_note = source_note
-# )
-# table_executive
 
 gt::gtsave(table_executive, glue("table_executive", ".png"), expand = 10)
 gt::gtsave(table_executive, glue("table_executive", ".pdf"), expand = 10)
@@ -249,8 +241,6 @@ gt::gtsave(table_executive, glue("table_executive", ".pdf"), expand = 10)
 #| label: fig-executive
 #| eval: false
 #| cache: true
-#| fig-width: 6.5
-#| fig-height: 3.5
 #| out-width: 70%
 #| fig-cap: "Attentional and executive functions underlie most, if not all, domains of cognitive performance. These are behaviors and skills that allow individuals to successfully carry-out instrumental and social activities, academic work, engage with others effectively, problem solve, and successfully interact with the environment to get needs met."
 xfun::pkg_attach(c(

@@ -1,0 +1,282 @@
+---
+title-meta: emotion
+execute:
+  warning: false
+  echo: false
+format:
+  typst:
+    keep-typ: true
+  pdf:
+    keep-md: true
+    keep-tex: true
+---
+
+<!-- ### Emotional/Behavioral/Personality -->
+
+```{r}
+#| label: data-emotion
+#| message: false
+#| echo: false
+library(readr)
+library(dplyr)
+file_path <- file.path("neurobehav.csv")
+emot <- read_csv(path)
+# filter
+filter <- c(
+  # PAI
+  "Somatic Complaints",
+  "Conversion",
+  "Somatization",
+  "Health Concerns",
+  "Anxiety",
+  "Cognitive (A)",
+  "Affective (A)",
+  "Physiological (A)",
+  "Anxiety-Related Disorders",
+  "Obsessive-Compulsive",
+  "Phobias",
+  "Traumatic Stress",
+  "Depression",
+  "Cognitive (D)",
+  "Affective (D)",
+  "Physiological (D)",
+  "Mania",
+  "Activity Level",
+  "Grandiosity",
+  "Irritability",
+  "Paranoia",
+  "Hypervigilance",
+  "Persecution",
+  "Resentment",
+  "Schizophrenia",
+  "Psychotic Experiences",
+  "Social Detachment",
+  "Thought Disorder",
+  "Borderline Features",
+  "Affective Instability",
+  "Identity Problems",
+  "Negative Relationships",
+  "Self-Harm",
+  "Antisocial Features",
+  "Antisocial Behaviors",
+  "Egocentricity",
+  "Stimulus-Seeking",
+  "Aggression",
+  "Aggressive Attitude",
+  "Verbal Aggression",
+  "Physical Aggression",
+  "Alcohol Problems",
+  "Drug Problems",
+  "Suicidal Ideation",
+  "Stress",
+  "Nonsupport",
+  "Treatment Rejection",
+  "Dominance",
+  "Warmth",
+  "ALC Estimated Score",
+  "DRG Estimated Score",
+  # BDI-2
+  "BID-2 Total Score",
+  # BAI-2
+  "BAI-2 Total Score"
+)
+```
+
+
+```{r}
+#| label: text-emotion
+#| echo: false
+#| warning: false
+#| cache: true
+library(glue)
+library(purrr)
+library(dplyr)
+
+df_txt <-
+  emot |>
+  filter(scale %in% filter) |>
+  arrange(desc(percentile)) |>
+  distinct(.keep_all = FALSE)
+
+df_txt |>
+  glue::glue_data() |>
+  purrr::modify(as_mapper(~ paste0(.x))) |>
+  cat(df_txt$result,
+    file = "_emotion_text_raw.qmd",
+    fill = TRUE,
+    append = TRUE
+  )
+```
+
+```{r}
+#| label: tbl-emotion
+#| eval: true
+#| echo: false
+#| warning: false
+#| tbl-cap: Emotional/Behavioral/Personality
+#| tbl-cap-location: top
+
+library(bwu)
+library(dplyr)
+library(kableExtra)
+library(webshot2)
+
+tb1 <-
+  bwu::make_tibble(
+    tibb = tb1,
+    data = emot,
+    pheno = "Psychiatric Disorders"
+  ) |>
+  filter(Scale %in% filter) |>
+  arrange(Test) |>
+  arrange(Subdomain)
+
+tb2 <-
+  bwu::make_tibble(
+    tibb = tb2,
+    data = emot,
+    pheno = "Personality Disorders"
+  ) |>
+  filter(Scale %in% filter) |>
+  arrange(Test) |>
+  arrange(Subdomain)
+
+tb3 <-
+  bwu::make_tibble(
+    tibb = tb3,
+    data = emot,
+    pheno = "Substance Use"
+  ) |>
+  filter(Scale %in% filter) |>
+  arrange(Test) |>
+  arrange(Subdomain)
+
+tb4 <-
+  bwu::make_tibble(
+    tibb = tb4,
+    data = emot,
+    pheno = "Psychosocial Problems"
+  ) |>
+  filter(Scale %in% filter) |>
+  arrange(Test) |>
+  arrange(Subdomain)
+
+# merge
+df_table <- rbind(tb1, tb2, tb3, tb4)
+
+tbl_emotion <-
+  kableExtra::kbl(
+    df_table[, 1:4], "latex",
+    longtable = FALSE,
+    booktabs = TRUE,
+    linesep = "",
+    align = c("lccc")
+  ) |>
+  kableExtra::kable_paper(lightable_options = "basic") |>
+  kableExtra::kable_styling(latex_options = c(
+    "scale_down",
+    "HOLD_position",
+    "striped",
+    font_size = 8
+  )) |>
+  kableExtra::column_spec(1, width = "8cm") |>
+  kableExtra::pack_rows(index = table(df_table$Test)) |>
+  kableExtra::pack_rows(index = table(df_table$Subdomain)) |>
+  kableExtra::row_spec(row = 0, bold = TRUE) |>
+  kableExtra::footnote("Note: T-scores have a mean of 50 and a standard deviation of
+  10. ",
+    general_title = "", threeparttable = TRUE, escape = F,
+    footnote_as_chunk = TRUE
+  )
+tbl_emotion
+```
+
+
+```{r}
+#| label: tbl-emotion
+#| tbl-width: 5
+#| tbl-height: 3
+#| tbl-cap-location: top
+#| tbl-cap: Emotional/Behavioral/Personality
+xfun::pkg_attach2(c("gt", "tidyverse", "glue", "webshot2", "gtExtras", "gtsummary"))
+
+file_path <- file.path("neurobehav.csv")
+filter <- filter
+domain <- "Emotional/Behavioral/Personality"
+table_name <- "table_emotion"
+
+table_emotion <- tbl_gt(
+  file_path = file_path,
+  filter = filter,
+  domain = domain,
+  table_name = table_name
+)
+table_emotion
+
+table_emotion |> gtsave(glue(table_name, ".png"), expand = 5)
+table_emotion |> gtsave(glue(table_name, ".pdf"), expand = 10)
+```
+
+
+```{r}
+#| label: fig-emotion
+#| eval: false
+#| fig-cap-location: margin
+#| margin-width: 3
+#| fig-cap: "Personality scores ..."
+
+library(ggplot2)
+library(ggthemes)
+library(scales)
+library(dplyr)
+library(patchwork)
+
+df_plot <-
+  emot |>
+  filter(!is.na(percentile)) |>
+  # arrange(test_name) |>
+  filter(scale %in% filter)
+
+# Define the color palette
+color_palette <- c(
+  "#190D33", "#27123A", "#351742", "#421E4A", "#502653",
+  "#5C2E5A", "#683863", "#73436A", "#7B4E70", "#815875",
+  "#866079", "#89697D", "#8B7280", "#8C7A81", "#8E8385",
+  "#908A87", "#919289", "#929A8A", "#94A38D", "#96AB8F",
+  "#99B392", "#9CBD95", "#A2C79A", "#ACD3A0", "#B9DFA9",
+  "#C8EAB3", "#D8F2BD", "#E6F9C7", "#F3FCD0", "#FEFED8"
+)
+
+# make plot
+ggplot2::ggplot() +
+  geom_segment(
+    data = df_plot,
+    aes(
+      x = z_mean_sub,
+      y = reorder(subdomain, z_mean_sub),
+      xend = 0,
+      yend = subdomain
+    ),
+    linewidth = 0.5
+  ) +
+  geom_point(
+    data = df_plot,
+    aes(
+      x = z_mean_sub,
+      y = reorder(subdomain, z_mean_sub),
+      fill = z_mean_sub
+    ),
+    shape = 21,
+    size = 6,
+    color = "black"
+  ) +
+  scale_fill_gradientn(colors = color_palette, guide = "none") +
+  theme_fivethirtyeight() +
+  theme(
+    panel.background = element_rect(fill = "white"),
+    plot.background = element_rect(fill = "white"),
+    panel.border = element_rect(color = "white")
+  )
+ggplot2::ggsave("fig_emotion.png")
+ggplot2::ggsave("fig_emotion.pdf")
+```

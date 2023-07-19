@@ -3,7 +3,26 @@ author: Joey Trampush
 version: 0.1.0
 quarto-required: ">=1.4.0"
 contributes:
-  formats:
+  format:
+    common:
+      format-resources:
+        - _academics.qmd
+        - _adhd.qmd
+        - _behav_obs.qmd
+        - _emotion.qmd
+        - _executive.qmd
+        - _iq.qmd
+        - _memory.qmd
+        - _motor.qmd
+        - _nse.qmd
+        - _recs.qmd
+        - _sirf.qmd
+        - _spatial.qmd
+        - _verbal.qmd
+        - neurobehav.csv
+        - neurocog.csv
+        - neuropsych.csv
+        - validity.csv
     typst:
       template: template.typ
       template-partials:

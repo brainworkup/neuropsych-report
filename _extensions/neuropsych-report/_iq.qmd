@@ -10,6 +10,8 @@ format:
   pdf:
     keep-md: true
     keep-tex: true
+  html: 
+    toc: true
 ---
 
 <!-- ### General Cognitive Ability -->
@@ -22,16 +24,18 @@ library(bwu)
 
 # which csv file to use
 pheno <- "iq"
+patient <- "Biggie"
 
 if (pheno == "adhd" || pheno == "emotion") {
-  csv <- "Biggie/neurobehav.csv"
+  csv <- "neurobehav.csv"
 } else {
-  csv <- "Biggie/neurocog.csv"
+  csv <- "neurocog.csv"
 }
 
 # read data
-file_path <- file.path(csv)
+file_path <- file.path(patient, csv)
 data <- readr::read_csv(file_path)
+
 ```
 
 ```{r}
@@ -94,10 +98,9 @@ data <- dplyr::filter(data, scale %in% filter_file)
 ```{r}
 #| label: text-iq
 #| cache: true
-library(glue)
-library(purrr)
-library(dplyr)
+xfun::pkg_attach(c("glue", "purrr", "dplyr", "epoxy"))
 
+# This code sorts the data by percentile and then removes duplicate rows based on the percentile variable. The resulting data is then converted to text and appended to the _academics_text_raw.qmd file.
 data_text <-
   data |>
   dplyr::arrange(dplyr::desc(percentile)) |>
@@ -107,17 +110,23 @@ data_text |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_text$result,
-    file = "_iq_text_raw.qmd",
+    file = "Biggie/_iq_text_raw.qmd",
     fill = TRUE,
     append = TRUE
   )
+
+subscale <- split(data_text, data_text$scale)
 ```
+
+```{epoxy, .data = subscale}
+- {description} was {range}, {scale} = {score} [{ci_95}], {percentile} percentile.\n
+- Premorbid estimate: subscale$`Cognitive Proficiency`, TOPF, above average (SS = 112).
+- Current general cognitive ability: VCI = 103; PRI = 117; WMI = 102; PSI = 92. All domains wnl; strong perceptual reasoning abilities.
+```
+
 
 ```{r}
 #| label: qtbl-iq
-#| fig-width: 6.5
-#| fig-height: 3.5
-#| fig-align: center
 
 # GT table
 xfun::pkg_attach2(c("gt", "dplyr", "glue", "webshot2", "gtExtras", "bwu"))
@@ -147,7 +156,7 @@ gt::gtsave(table_iq, glue("table_iq", ".pdf"), expand = 10)
 <qtbl-iq>
 #figure([#image("table_iq.png", width: 70%)],
   caption: [
-    Intellectual and neuropsychological test scores
+    Composite intellectual and neuropsychological index scores
   ],
   kind: "qtbl",
   supplement: [Table],
@@ -155,9 +164,7 @@ gt::gtsave(table_iq, glue("table_iq", ".pdf"), expand = 10)
 ```
 ```{r}
 #| label: fig-iq
-#| eval: false
-#| fig-width: 6.5
-#| fig-height: 3.5
+#| eval: true
 #| fig-cap: "*General Ability* refers to an overall capacity to reason, to solve problems, and to learn useful information. *Crystallized Knowledge* refers to the ability to learn and use language to reason and understand how the world works. *Fluid Reasoning* refers to the ability to use logical reasoning to figure things out without being told exactly how things work, analyze and solve novel problems, identify patterns and relationships that underpin these problems, and apply logic."
 
 # load packages
@@ -168,7 +175,7 @@ xfun::pkg_attach(c(
 
 # more filtering for plots
 data <- dplyr::filter(
-  data, 
+  data,
   scale %in% c("General Ability", "Crystallized Knowledge", "Fluid Reasoning")
 )
 data <- dplyr::filter(data, !is.na(percentile))

@@ -12,3 +12,4 @@ template_cache/
 table_*.pdf
 table_*.png
 _*_text_raw.qmd
+.trunk/
