@@ -133,11 +133,10 @@ data_text |>
   )
 ```
 
+{{< include _verbal_text_raw.qmd >}}
+
 ```{r}
 #| label: qtbl-verbal
-#| fig-width: 6.5
-#| fig-height: 3.5
-#| fig-align: center
 
 # GT table
 xfun::pkg_attach2(c("gt", "dplyr", "glue", "webshot2", "gtExtras", "bwu"))
@@ -176,9 +175,7 @@ gt::gtsave(table_verbal, glue("table_verbal", ".pdf"), expand = 10)
 
 ```{r}
 #| label: fig-verbal
-#| eval: false
-#| fig-width: 6.5
-#| fig-height: 3.5
+#| eval: true
 #| fig-align: center
 #| fig-cap: "Verbal/Language refers to the ability to access and apply acquired word knowledge, to verbalize meaningful concepts, to understand complex multistep instructions, to think about verbal information, and to express oneself using words."
 xfun::pkg_attach(c(

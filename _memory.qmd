@@ -153,10 +153,10 @@ data_text |>
   )
 ```
 
+{{< include _memory_text_raw.qmd >}}
+
 ```{r}
 #| label: qtbl-memory
-#| fig-width: 6.5
-#| fig-height: 3.5
 #| fig-align: center
 
 # GT table

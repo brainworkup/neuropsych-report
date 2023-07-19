@@ -24,9 +24,9 @@ library(bwu)
 pheno <- "academics"
 
 if (pheno == "adhd" || pheno == "emotion") {
-  csv <- "Biggie/neurobehav.csv"
+  csv <- "neurobehav.csv"
 } else {
-  csv <- "Biggie/neurocog.csv"
+  csv <- "neurocog.csv"
 }
 
 # read data
@@ -153,10 +153,10 @@ data_text |>
   )
 ```
 
+{{< include _academics_text_raw.qmd >}}
+
 ```{r}
 #| label: qtbl-academics
-#| fig-width: 6.5
-#| fig-height: 3.5
 #| fig-align: center
 #| cache: true
 

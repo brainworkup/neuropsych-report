@@ -103,6 +103,8 @@ data_text |>
   )
 ```
 
+{{< include _spatial_text_raw.qmd >}}
+
 ```{r}
 #| label: qtbl-spatial
 #| fig-align: center

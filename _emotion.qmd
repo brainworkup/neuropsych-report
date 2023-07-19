@@ -108,11 +108,11 @@ df_txt |>
   )
 ```
 
+{{< include _emotion_text_raw.qmd >}}
+
 ```{r}
-#| label: tbl-emotion
+#| label: pre-tbl-emotion
 #| eval: true
-#| echo: false
-#| warning: false
 #| tbl-cap: Emotional/Behavioral/Personality
 #| tbl-cap-location: top
 
@@ -193,7 +193,7 @@ tbl_emotion
 
 
 ```{r}
-#| label: tbl-emotion
+#| label: qtbl-emotion
 #| tbl-width: 5
 #| tbl-height: 3
 #| tbl-cap-location: top

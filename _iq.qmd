@@ -33,7 +33,7 @@ if (pheno == "adhd" || pheno == "emotion") {
 }
 
 # read data
-file_path <- file.path(patient, csv)
+file_path <- file.path(csv)
 data <- readr::read_csv(file_path)
 
 ```
@@ -110,7 +110,7 @@ data_text |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_text$result,
-    file = "Biggie/_iq_text_raw.qmd",
+    file = "_iq_text_raw.qmd",
     fill = TRUE,
     append = TRUE
   )
@@ -118,12 +118,7 @@ data_text |>
 subscale <- split(data_text, data_text$scale)
 ```
 
-```{epoxy, .data = subscale}
-- {description} was {range}, {scale} = {score} [{ci_95}], {percentile} percentile.\n
-- Premorbid estimate: subscale$`Cognitive Proficiency`, TOPF, above average (SS = 112).
-- Current general cognitive ability: VCI = 103; PRI = 117; WMI = 102; PSI = 92. All domains wnl; strong perceptual reasoning abilities.
-```
-
+{{< include _iq_text_raw.qmd >}}
 
 ```{r}
 #| label: qtbl-iq

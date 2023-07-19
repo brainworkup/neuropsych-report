@@ -157,11 +157,10 @@ data_text |>
   )
 ```
 
+{{< include _executive_text_raw.qmd >}}
+
 ```{r}
 #| label: qtbl-executive
-#| fig-width: 6.5
-#| fig-height: 4.5
-#| fig-align: center
 #| cache: true
 
 # GT table
