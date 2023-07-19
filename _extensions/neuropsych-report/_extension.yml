@@ -6,23 +6,28 @@ contributes:
   format:
     common:
       format-resources:
-        - _academics.qmd
-        - _adhd.qmd
         - _behav_obs.qmd
-        - _emotion.qmd
-        - _executive.qmd
-        - _iq.qmd
-        - _memory.qmd
-        - _motor.qmd
         - _nse.qmd
         - _recs.qmd
         - _sirf.qmd
+        - _academics_text.qmd
+        - _academics.qmd
+        - _adhd_text.qmd
+        - _adhd.qmd
+        - _emotion_text.qmd
+        - _emotion.qmd
+        - _executive_text.qmd
+        - _executive.qmd
+        - _iq_text.qmd
+        - _iq.qmd
+        - _memory_text.qmd
+        - _memory.qmd
+        - _motor_text.qmd
+        - _motor.qmd
+        - _spatial_text.qmd
         - _spatial.qmd
+        - _verbal_text.qmd
         - _verbal.qmd
-        - logo.png
-        - refs.bib
-        - plot_narrow.png
-        - plot_broad.png
     typst:
       template: template.typ
       template-partials:
