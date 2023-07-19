@@ -115,10 +115,10 @@ data_text |>
     append = TRUE
   )
 
-subscale <- split(data_text, data_text$scale)
+# subscale <- split(data_text, data_text$scale)
 ```
 
-{{< include _iq_text_raw.qmd >}}
+{{< include _iq_text.qmd >}}
 
 ```{r}
 #| label: qtbl-iq
