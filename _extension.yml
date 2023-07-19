@@ -6,19 +6,23 @@ contributes:
   format:
     common:
       format-resources:
-        - _academics.qmd
+        - _extensions/neuropsych-report/_academics.qmd
         - _adhd.qmd
-        - _behav_obs.qmd
+        - _extensions/neuropsych-report/_behav_obs.qmd
         - _emotion.qmd
         - _executive.qmd
-        - _iq.qmd
+        - _extensions/neuropsych-report/_iq.qmd
         - _memory.qmd
         - _motor.qmd
-        - _nse.qmd
+        - _extensions/neuropsych-report/_nse.qmd
         - _recs.qmd
         - _sirf.qmd
         - _spatial.qmd
         - _verbal.qmd
+        - _extensions/neuropsych-report/neurobehav.csv
+        - _extensions/neuropsych-report/neurocog.csv
+        - _extensions/neuropsych-report/neuropsych.csv
+        - _extensions/neuropsych-report/validity.csv
     typst:
       template: template.typ
       template-partials:
