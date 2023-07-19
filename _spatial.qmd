@@ -24,9 +24,9 @@ library(bwu)
 pheno <- "Visual Perception/Construction"
 
 if (pheno == "adhd" || pheno == "emotion") {
-  csv <- "Biggie/neurobehav.csv"
+  csv <- "neurobehav.csv"
 } else {
-  csv <- "Biggie/neurocog.csv"
+  csv <- "neurocog.csv"
 }
 
 # read data
@@ -97,13 +97,13 @@ data_text |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_text$result,
-    file = "_spatial_text_raw.qmd",
+    file = "_spatial_text.qmd",
     fill = TRUE,
     append = TRUE
   )
 ```
 
-{{< include _spatial_text_raw.qmd >}}
+{{< include _spatial_text.qmd >}}
 
 ```{r}
 #| label: qtbl-spatial
@@ -123,7 +123,7 @@ data <- dplyr::arrange(data, test_name)
 
 # source note
 source_note <- gt::md("*Note:* T-scores have a mean of 50 and a standard
-deviation of 10.  
+deviation of 10.
 Scaled scores have a mean of 10 and a standard deviation of
 3.")
 

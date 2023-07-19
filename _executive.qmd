@@ -151,13 +151,13 @@ data_text |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_text$result,
-    file = "_executive_text_raw.qmd",
+    file = "_executive_text.qmd",
     fill = TRUE,
     append = TRUE
   )
 ```
 
-{{< include _executive_text_raw.qmd >}}
+{{< include _executive_text.qmd >}}
 
 ```{r}
 #| label: qtbl-executive
@@ -238,7 +238,7 @@ gt::gtsave(table_executive, glue("table_executive", ".pdf"), expand = 10)
 
 ```{r}
 #| label: fig-executive
-#| eval: false
+#| eval: true
 #| cache: true
 #| out-width: 70%
 #| fig-cap: "Attentional and executive functions underlie most, if not all, domains of cognitive performance. These are behaviors and skills that allow individuals to successfully carry-out instrumental and social activities, academic work, engage with others effectively, problem solve, and successfully interact with the environment to get needs met."

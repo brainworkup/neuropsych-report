@@ -147,13 +147,13 @@ data_text |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_text$result,
-    file = "_memory_text_raw.qmd",
+    file = "_memory_text.qmd",
     fill = TRUE,
     append = TRUE
   )
 ```
 
-{{< include _memory_text_raw.qmd >}}
+{{< include _memory_text.qmd >}}
 
 ```{r}
 #| label: qtbl-memory
@@ -197,11 +197,8 @@ gt::gtsave(table_memory, glue("table_memory", ".pdf"), expand = 10)
 
 ```{r}
 #| label: fig-memory
-#| eval: false
+#| eval: true
 #| column: page
-#| fig-width: 6.5
-#| fig-height: 3.5
-#| out-width: 90%
 #| fig-cap: "*Learning and memory* refer to the rate and ease with which new information (e. g., facts, stories, lists, faces, names) can be encoded, stored, and later recalled from long-term memory."
 xfun::pkg_attach(c(
   "gt", "tidyverse", "glue", "webshot2", "ggplot2", "ggthemes",

@@ -24,7 +24,6 @@ library(bwu)
 
 # which csv file to use
 pheno <- "iq"
-patient <- "Biggie"
 
 if (pheno == "adhd" || pheno == "emotion") {
   csv <- "neurobehav.csv"
@@ -110,7 +109,7 @@ data_text |>
   glue::glue_data() |>
   purrr::modify(purrr::as_mapper(~ paste0(.x))) |>
   cat(data_text$result,
-    file = "_iq_text_raw.qmd",
+    file = "_iq_text.qmd",
     fill = TRUE,
     append = TRUE
   )
